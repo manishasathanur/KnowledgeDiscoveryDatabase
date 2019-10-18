@@ -1,0 +1,11 @@
+Genetic findings support observational evidence that lower vitamin D levels are associated with increased risk of multiple sclerosis, according to a new research article by Brent Richards, from McGill University, Canada, and colleagues published this week in PLOS Medicine.
+
+Multiple sclerosis is a debilitating autoimmune disease that affects the nerves in the brain and spinal cord. There is no known cure for multiple sclerosis and it usually presents between the ages of 20 and 40 years. While some observational evidence suggests there may be a link between lower vitamin D levels and multiple sclerosis risk, it is difficult to infer a causal relationship because individuals who develop multiple sclerosis in these studies might share another unknown characteristic that increases their risk of multiple sclerosis (this is known as confounding).
+
+Using a genetic technique called Mendelian randomization to reduce the possibility of confounding the authors examined whether there was an association between genetically reduced vitamin D levels (measured by the level of 25-hydroxyvitamin D, the clinical determinant of vitamin D status) and susceptibility to multiple sclerosis among participants in the International Multiple Sclerosis Genetics Consortium study, which involves 14,498 people with multiple sclerosis and 24,091 healthy controls. The authors found that a genetic decrease in the natural-log-transformed vitamin D level by one standard deviation was associated with a 2-fold increased risk of multiple sclerosis.
+
+While the Mendelian randomization approach used by the authors largely avoids the possibility of confounding or reverse causation, the reliability of these findings may be limited by some of the assumptions made by the researchers during their analysis.
+
+Nevertheless the authors conclude, "genetically lowered vitamin D levels are strongly associated with increased susceptibility to multiple sclerosis. Whether vitamin D sufficiency can delay, or prevent, multiple sclerosis onset merits further investigation in long-term randomized controlled trials."
+
+The authors also note, "ongoing randomized controlled trials are currently assessing vitamin D supplementation for the treatment and prevention of multiple sclerosis ... and may therefore provide needed insights into the role of vitamin D supplementation."

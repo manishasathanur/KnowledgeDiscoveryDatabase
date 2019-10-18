@@ -1,0 +1,13 @@
+Diets rich in fish oil versus diets rich in lard (e.g., bacon) produce very different bacteria in the guts of mice, reports a study published August 27 in Cell Metabolism. The researchers transferred these microbes into other mice to see how they affected health. The results suggest that gut bacteria share some of the responsibility for the beneficial effects of fish oil and the harmful effects of lard.
+
+In particular, mice that received transplants of gut microbes associated with a fish oil diet were protected against diet-induced weight gain and inflammation compared with mice transplanted with gut microbes associated with a lard diet. This demonstrates that gut microbes are an independent factor aggravating inflammation associated with diet-induced obesity and gives hope that a probiotic might help counteract a "greasy" diet.
+
+"We wanted to determine whether gut microbes directly contribute to the metabolic differences associated with diets rich in healthy and unhealthy fats," says first study author Robert Caesar of the University of Gothenburg. Even though the study was done in mice, "our goal is to identify interventions for optimizing metabolic health in humans."
+
+Caesar, working in the lab of senior study author Fredrik Bäckhed, began by feeding either lard or fish oil to mice for 11 weeks and monitoring signs of metabolic health. While the consumption of lard promoted the growth of bacteria called Bilophila, which have been linked to gut inflammation, the fish oil diet increased the abundance of bacteria called Akkermansia muciniphila, known to reduce weight gain and improve glucose metabolism in mice.
+
+"We were surprised that the lard and the fish oil diet, despite having the same energy content and the same amount of dietary fiber--which is the primary energy source for the gut bacteria--resulted in fundamentally different gut microbiota communities and that the microbiota per se had such large effects on health," Caesar says.
+
+In the next set of experiments, Caesar conducted "fecal transplants" to test whether fish oil-diet microbes could improve the health of mice fed only lard and vice versa. The results provide additional evidence that gut microbe communities can both determine and recover health problems caused by poor diet.
+
+"Our paper supports previous reports indicating the bacteria Akkermansia muciniphila is a promoter of a healthy phenotype," Bäckhed says. "However, further investigations will be needed to determine if this bacteria can be used as probiotic strain and, in that case, how it should be combined with diet to optimize health outcomes."

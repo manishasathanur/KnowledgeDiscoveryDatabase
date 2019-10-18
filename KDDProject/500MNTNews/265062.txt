@@ -1,0 +1,14 @@
+
+For the first time researchers have identified the lifelong changes in gene expression in the brains of people born with Down syndrome (DS).
+
+The findings, which appear in the journal Neuron, may lead to possible therapies for DS patients.
+
+DS occurs in one out of every 691 live births and is the most common genetic cause of intellectual disability, affecting approximately 400,000 Americans. The underlying developmental and genetic causes of this intellectual disability in DS are not fully known and because of this lack of knowledge, no treatment is currently available. 
+
+A multi-institution team of researchers led by Tarik Haydar, PhD, associate professor of anatomy and neurobiology at Boston University School of Medicine (BUSM) and Nenad Sestan, MD/PhD professor of neuroscience at Yale School of Medicine, compared gene expression in different regions of the brains of humans with DS across development and adulthood. They discovered that the establishment of white matter in the brain, which is the insulation of the brain nerve fibers, (i.e. axons) is altered from toddler to adult periods of development. This finding was unexpected given the current theory that many changes leading to intellectual disability occur prenatally in DS. They also showed that the white matter changes in the brain are due to specific developmental defects in a class of brain cells called oligodendrocytes that form the white matter of the brain, and that this causes slower nerve transmission.
+ 
+"This discovery of the genetic changes that alter communication within the brain uncovered a completely new target for therapies in the brains of people with DS," explained Haydar.  "These findings may allow researchers to design strategies to promote brain functioning and improve quality of life, he added.
+
+The researchers also believe these findings may have profound implications for individuals with other developmental disabilities, such as autism. 
+
+This work was supported by grants NS076503 and MH106934 from the National Institutes of Health and by a grant of the Korea Health Technology R&D Project through KHIDI (HI14C2461). Additional funding was provided by the Kavli Foundation, the James S. McDonnell Foundation scholar award, the Ruth Kirschstein NRSA fellowship (NIH) and the China Scholarship Council fellowship.

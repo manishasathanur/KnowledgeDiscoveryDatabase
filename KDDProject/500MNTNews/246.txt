@@ -1,0 +1,42 @@
+
+
+
+
+
+Contact: Staci Maloof  
+staci.maloof@pnl.gov  
+509-372-6313  
+DOE/Pacific Northwest National Laboratory   
+
+
+RICHLAND, Wash. - A new method of extracting and analyzing fluid from a woman's breast may provide a more accurate, less expensive and noninvasive way to determine a patient's risk for  breast cancer  or to diagnose the disease in its early stages.   
+
+In a paper published in the July 3 issue of Breast Cancer Research and Treatment, Battelle scientists at the Department of Energy's Pacific Northwest National Laboratory and researchers at University of California, Los Angeles report they have discovered six times more proteins than previously identified in this fluid, called nipple aspirate fluid, or NAF.   
+
+The presence of such proteins suggests that NAF could be a resource for biomarkers, or biological indicators, of breast cancer, which is expected to claim the lives of approximately 40,000 American women this year. 
+   
+'We believe this fluid could be the best alternative for discovering biomarkers for early-stage breast cancer,' said Rick Zangar, a Battelle principal investigator at PNNL.    'With further analysis, we could detect up to 10 times more proteins in NAF. The more proteins we identify, the better chance there is to find one that is linked to breast cancer.' 
+   
+Proteins can serve as biomarkers of disease. When cancerous cells begin to develop, they create their own proteins that, if detected in NAF, could indicate the presence or risk of breast cancer. Current methods for screening include breast self-exams and mammograms, which are physical exams compared with the molecular approach at PNNL. 
+   
+NAF is continuously secreted and reabsorbed in breasts of women who aren't pregnant or lactating. It is generated from cells lining the ducts that form a network throughout the breast, the same network that provides milk in a lactating woman. These ductal cells are the source of 70 to 80 percent of breast cancer. 
+   
+'NAF offers a unique window through which we can monitor the processes occurring inside the breast ductal system,' Zangar said. 'The medical community recognizes that one way to markedly decrease mortality from breast cancer would be a more accurate, noninvasive method for early diagnosis. Our approach suggests there could be other options available.' 
+   
+The NAF samples were collected using an enhanced process that is less painful than other extraction methods yet obtains just as much fluid. It was developed by co-author Chandice Covington, Professor and Chair, Primary Care Nursing at UCLA School of Nursing. 
+   
+While NAF has been studied for more than 25 years, most extraction methods have been painful. Through Covington's process, women use warmth, massage and a simple breast pump that eases the fluid from the breast without discomfort. 
+   
+'Women need early mechanisms for detecting potential or existing disease,' Covington said. 'Current detection methods rely on feeling a lump in a self-exam or visualizing a lump in a mammogram. By the time a lump has formed, the  cancer  has progressed. My technique, combined with Battelle's protein analysis capabilities, makes our approach one of the leading methods for identifying biomarkers for breast cancer in the early stages, before a lump is detectable.' 
+   
+Zangar and colleague Susan Varnum analyzed the NAF samples using high-throughput mass spectrometers located in the William R. Wiley Environmental Molecular Sciences Laboratory, a DOE national user facility located at PNNL. Of the 65 proteins identified, 15 of them, or 23 percent, have been previously implicated as potential biomarkers for breast cancer.    This implies that NAF provides a useful sample for analysis of known breast cancer biomarkers, while offering the possibility of providing novel biomarkers not yet identified in blood samples. 
+   
+The results are promising, but Zangar also noted there are more questions that need to be addressed. 
+   
+'Will a biomarker show up sooner in NAF than in blood? We don't know yet, but we do know that NAF is a concentrated source of proteins specifically released by breast cells. A marker protein released into the blood, on the other hand, is more diluted, and it's more difficult to determine where in the body the protein came from,' he said. 
+   
+Zangar and his team hope to secure additional funding to further study the proteins identified in NAF using a protein microarray they developed that can screen dozens of proteins simultaneously. 
+   
+The Department of Defense Breast Cancer Research Program funded the majority of the NAF research. Business inquiries on this or other areas of research at PNNL should be directed to 888-375-PNNL or inquiry@pnl.gov. 
+   
+Pacific Northwest National Laboratory is a Department of Energy Office of Science research facility that advances the fundamental understanding of complex systems, and provides science-based solutions to some of the nation's most pressing challenges in national security, energy and environmental quality. The laboratory employs more than 3,800 scientists, engineers, technicians and support staff, and has an annual budget of nearly $600 million. Battelle, based in Columbus, Ohio, has operated PNNL for the federal government since the laboratory's inception in 1965. 

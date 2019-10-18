@@ -1,0 +1,31 @@
+
+
+
+
+
+Online communities could easily be used to offer people with chronic illnesses, such as  diabetes  , wireless healthcare services via mobile phones and the internet. The approach, outlined in the  International Journal of Networking and Virtual Organisations , would reduce healthcare costs and empower many patients to manage their condition more effectively.
+   
+Providing optimal healthcare while keeping costs down is important medically and economically for the growing number of people with chronic illnesses such as diabetes,  high blood pressure , and  asthma . Prevention and early detection of disease, especially when no cure exists, can be critical in this regard allowing a condition to be better managed at a stage when progression to a more serious state can be avoided.
+   
+Quality of life can be improved for many patients by adopting this approach and so reducing the amount of healthcare interventions. As such, effective chronic disease management relies on regular monitoring that allows informed patients to take responsibility for managing their wellness.
+   
+Nilmini Wickramasinghe who has recently joined RMIT University, in Australia after 15 years of conducting research in IT and healthcare in the USA is working with Steve Goldberg of INET International Inc. in Thornhill, Ontario, Canada to develop a wireless system to empower patients that supports patient self-management for diabetes and other chronic diseases.
+   
+"Diabetes is an important chronic disease increasing in prevalence throughout not only North America but also the world," the researchers explain. "Given the treatment costs for this increasing population, coupled with the increased non-working hours due to treatment requirements, increases in the prevalence of diabetes as is projected is indeed alarming to any healthcare system."
+   
+Technology initiatives in healthcare to date have had mixed results, the researchers add, but this is perhaps due to a failure of such initiatives to capture the richness and potential of the modern healthcare environment rather than an intrinsic flaw in taking an information technology approach. Indeed, INET and Wickramasinghe are working towards addressing this issue.
+   
+In a pilot study with twenty patients, the INET team led by Sheldon Silver, has already demonstrated that it is possible for patients to dial in their own blood glucose readings using a mobile phone and to receive timely feedback from their healthcare worker. The next step is to exploit online communities to make use of the additional context and tools that are then available. Social networks such as Facebook and Linkedin are playing a pivotal role in moving internet users from isolation to a connected network of family, friends and business associates, the team explains. The logical extension of this type of community for healthcare management is obvious. Indeed, US physicians have their own system in the form of the Sermo network.
+   
+The team outlines a model that would allow an online social network approach to be taken to patient healthcare management. Given that one out of every 10 healthcare dollars spent in the USA is spent on diabetes and its complications, such a system implemented for people with diabetes could significantly reduce costs as well as improving their quality of life.
+   
+"We are confident that our model is especially important when implementing a technology enable solution to any healthcare context and thus close by calling for more research in this area," Wickramasinghe and Goldberg conclude.
+
+   
+"Transforming online communities into support environments for chronic disease management through cell phones and social networks" in  Int. J. Networking and Virtual Organisations , 2010, 7, 581-591 
+
+   
+Source:   
+ Nilmini Wickramasinghe  
+
+Inderscience Publishers 

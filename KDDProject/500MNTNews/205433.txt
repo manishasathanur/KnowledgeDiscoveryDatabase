@@ -1,0 +1,46 @@
+
+Previous research has indicated that music training when young can improve infants' ability to process musical sounds and speech.
+
+However, it has not been clear from these studies whether perceptual differences between musicians and non-musicians are due to music training. It may be that people who already have superior auditory skills are more likely to become involved in musical activities.
+
+In addition, the quality and style of music training vary widely, potentially affecting the results.
+
+Researchers from the University of Washington in Seattle have investigated the effects of early music training on music and speech processing in 9-month-old infants.
+
+The participants were all from monolingual, English-speaking backgrounds and their previous exposure to music were similar. None of their parents were musicians.
+
+The randomized, controlled study involved one group of 20 infants listening to recordings of music in triple meter (waltz time), while a control group of 19 infants played with non-musical toys.
+
+Fast facts about music
+
+The children participated in 12 sessions, each lasting 15 minutes, over a period of 4 weeks.
+
+Activities in both groups were multimodal, social, and repetitive - experiences typically found in infant music classes, except that the control group's experience did not involve music.
+
+Infants in the music intervention group were encouraged and helped to tap out the musical beats with maracas or their feet, and they were bounced in time with the rhythms.
+
+Those in the control group played with cars, blocks and other toys that required coordinated movement but not music.
+
+After the 4-week study period, the team used magnetoencephalography (MEG) to measure neural responses in the infants.
+
+MEG is a non-invasive technique for investigating the dynamic, magnetic fields that result from synchronized neural firing. It can provide millisecond-by-millisecond measurements of ongoing brain activity. It also reveals which part of the brain activity is occurring in.
+
+During the MEG recordings, the infants heard tones in triple meter and sounds from foreign languages.
+
+On hearing both music and speech sounds, those who had received music training displayed greater neural activity in auditory and prefrontal cortical regions, which have been associated with pattern processing and the predictive coding of auditory stimuli.
+
+The authors believe that exposure to music early in life might improve infants' ability to detect patterns in complex sounds, and that music intervention can be generalized to changes related to speech development.
+Medical News Today asked study co-author Dr. Patricia Kuhl how active children should be to benefit from exposure to music. 
+
+She explained that action is important for learning both music and language. In previous studies, her team has found that when infants listen to people talking, the brain centers they use to talk back are active, even before they are able to talk.
+
+"Infants want to act on the world," she said. "They want to talk back, they want to move to the music, and they
+want to make music themselves."
+ 
+The researchers think that having the children move to the beat of the music was an important part of the intervention's success.
+
+We also asked Dr. Kuhl whether the type of music would make a difference. She told us: 
+"All music involves patterns, so the effects we see in the baby brain could hold true for all music. We think infants in the music group learned to detect patterns and that pattern perception is really important for learning, not only in music but broadly. 
+
+We show that the effects of music extended to speech. We don't know if music learning would extend to visual patterns or other patterns, but it might. Learning to predict patterns is a very important skill that could aid learning very generally."
+Dr. Kuhl told MNT that they do not yet know whether older children might benefit from music in the same way, but they plan to test children of different ages in the future.

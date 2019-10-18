@@ -1,0 +1,31 @@
+
+According to the Centers for Disease Control and Prevention (CDC), asthma is one of the most common long-term health conditions among children, affecting 6.8 million, or 9.3% of the under-18 population. It also affects 8% of American adults, or 18.7 million people, and tends to be hereditary.
+
+A person who has asthma always has it, but an attack, or exacerbation, will only occur when something irritates the lungs. Symptoms include wheezing and difficulty breathing, tightness in the chest and coughing at night or early in the morning.
+
+The CDC note that the causes of asthma have not been established; nor is there a cure.
+
+Asthma exacerbations lead to millions of days of absenteeism from work or school, as well as hospitalizations. Spending on direct health care totals $50 billion annually in the US.
+
+Previous attempts to determine the causes of an attack have involved swabbing individual patients to detect viruses. Scientists have suggested that air quality in schools or other environmental factors might be to blame. 
+In the current study, Lauren Meyers, professor of integrative biology and statistics and data sciences at the University of Texas-Austin, and colleagues built a computer model to investigate the impact of the common cold virus on asthma. The model incorporated potential triggers of asthma attacks. 
+
+The team also examined population data for cities across Texas over a 7-year period. The data showed the circulation of the common cold virus among adults and children throughout the year and the timing and locations of approximately 66,000 hospitalizations for asthma.
+
+They tested each driver separately and compared the output of the model to the real-world health data. This enabled them to determine the relative impact of each trigger and to discover which combination of factors best matched the data.
+
+Results revealed that the primary driver of asthma exacerbations was the spread of cold viruses, a factor that is largely influenced by the school calendar. Among children, daily viral prevalence was the strongest predictor of asthma hospitalizations. During school holidays, transmission was 45% lower.
+
+For adults, there was a wider range of hospitalization patterns, but there were peaks in the winter, apparently driven by influenza.
+
+The study did not suggest a significant role for ozone or particulate matter, such as dust, possibly because of the geographical spread of the population.
+
+The authors speculate that during school breaks, children tend to interact less with other children and are exposed to fewer viruses, leading to a drop in their viral immunity. On returning to school, viral exposure is much higher, and this is just at the time when children are most vulnerable.
+
+The team developed more accurate rates of transmission of cold viruses than previous studies. This could help to improve understanding of how common colds spread and to inform strategies to protect those who are most at risk.
+
+Meyers points out that the school calendar predicts common cold transmission, which in turn predicts the prevalence of asthma attacks.
+
+She suggests: 
+"This work can improve public health strategies to keep asthmatic children healthy. For example, at the riskiest times of year, doctors could encourage patient adherence to preventative medications, and schools could take measures to reduce cold transmission."
+Medical News Today reported recently that scientists have discovered the immune cells that fight the cold virus in the lungs.

@@ -1,0 +1,29 @@
+High levels of saturated fat in the blood could make an individual more prone to inflammation and tissue damage, a new study suggests.
+
+Received wisdom on the health risks of eating saturated fat has been called into question recently. This new research supports the view that excessive consumption of saturated fat can be bad for us.
+
+Scientists from Imperial College London studied mice that have an unusually high level of saturated fat circulating in their blood. The research, published 3 September 2015 in Cell Reports shows that the presence of saturated fats resulted in monocytes - a type of white blood cell - migrating into the tissues of vital organs.
+
+The researchers believe that the newly arrived monocytes could worsen tissue damage because they may exacerbate ongoing or underlying inflammation, but this aspect is still under study.
+
+Lead researcher Dr Kevin Woollard said: "The mice we studied were treated with a drug that caused them to accumulate extremely high levels of fat in their blood. Although it is unusual, humans do sometimes have measurements approaching those levels, either from an inherited condition, or through eating fatty foods.
+
+"Modern lifestyles seem to go hand-in-hand with high levels of fat in the blood. This fat comes from the food and drink that we consume; for example, you'd be surprised how much saturated fat a latte contains, and some people drink several through the course of the day.
+
+"We think that maintaining a relatively high concentration of saturated fats for example by constantly snacking on cakes, biscuits, and pastries could be causing monocytes to migrate out of the blood and into surrounding tissues."
+
+Blood is very finely balanced, and the exchange of cells and other substances with the surrounding tissue is part of maintaining that balance.
+
+The team, led by Dr Woollard and Professor Marina Botto from the Department of Medicine at Imperial College London, has observed that as the organs take in fats, most of the migrated monocytes are turned into another type of immune cell called a macrophage and some of the cells located within the tissues take in fat and are turned into 'foam cells'. These foam cells and macrophages then stimulate production of a signalling molecule called CCL4, which attracts more monocytes into the tissue. This spiral continues as long as the level of saturated fat is elevated.
+
+These mechanisms may have evolved to remove fats from the blood in order to maintain a healthy balance; further research is required to confirm this.
+
+A critical discovery, however, is that the monocytes that are involved in this balancing act are of just one very specific type.
+
+Dr Woollard said: "It's really exciting to see that the monocytes that migrate into tissues are all of one type and that means we actually may be able to develop drugs that change this behaviour."
+
+In the future, people who are at risk of cardiovascular disease or who are obese could be treated with a therapeutic drug that targets these particular monocytes and prevents the possible future damage caused by fatty build up in their blood vessels and organs.
+
+"Interestingly, people with certain immune disorders affecting monocytes, including some inflammatory and autoimmune diseases like lupus, can have unexpectedly high levels of saturated fats in their blood and also are more likely to suffer heart attacks and strokes at a younger age."
+
+The next stages of this research will be to study groups of patients with inflammatory diseases, and to look at the direct effects of saturated foods on monocyte function.

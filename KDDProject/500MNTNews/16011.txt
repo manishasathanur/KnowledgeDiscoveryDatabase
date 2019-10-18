@@ -1,0 +1,100 @@
+
+
+
+
+
+By studying a little-known yeast too primitive to get diseases, Johns Hopkins researchers have uncovered a surprising 
+
+link between two processes at play in  heart disease  and  cancer  in people.    
+In experiments with yeast known as S. pombe, the researchers discovered that a gene that helps the organism make  cholesterol  
+
+also helps it survive when oxygen is scarce. The finding, described in the March 25 issue of Cell, offers a new strategy for 
+
+killing infectious yeast, but it also suggests that cells' efforts to make cholesterol and detect oxygen levels might be 
+
+connected in people, too.    
+"We were simply trying to establish that this yeast could be a model for studying cholesterol-related activities in human 
+
+cells," says the study's leader, Peter Espenshade, Ph.D., assistant professor of cell biology in Johns Hopkins' Institute for 
+
+Basic Biomedical Sciences. "We certainly didn't expect to find a completely new role for this gene."    
+It's already well established that human cells can both make cholesterol and sense oxygen. In people, high levels of 
+
+cholesterol in the blood are a major risk factor for heart disease, and many human cancer cells are able to survive despite 
+
+being in tumors' oxygen-starved centers.    
+"We don't know yet whether cholesterol production and oxygen sensing are connected in human cells, but now we're trying to 
+
+find out," says Espenshade.    
+In people, the gene in question, known as SREBP, controls other genes whose products help make or import cholesterol. 
+
+Cholesterol-lowering drugs called statins mimic this gene's natural role by triggering cells to import more cholesterol, 
+
+clearing the artery-clogging stuff from the blood.    
+Despite the obvious medical relevance of SREBP, no one had ever looked at the equivalent system -- or even determined whether 
+
+there was one -- in yeast, the simple, single-celled relatives with which we share many genes. Because yeast can be easily 
+
+manipulated and studied, Espenshade figured they might be a good model for figuring out exactly how SREBP is turned on, what 
+
+it does and how it's shut off -- if the organism has an equivalent process.    
+Turning first to databases of the entire genetic sequences of various yeast, Espenshade sought yeast genes that looked like 
+
+SREBP and its binding partner SCAP. Nothing turned up in the well-studied S. cerevisiae, or brewer's yeast, but S. pombe 
+
+seemed to have the right stuff.    
+Graduate student Adam Hughes then examined the role of these similar genes to prove that they in fact duplicate the human 
+
+process. Indeed, the yeast gene they called sre1 triggered activation of cholesterol-producing genes, aided by a gene called 
+
+scp1 that behaves like SCAP.    
+As in humans, sre1 somehow gets turned on when cholesterol levels are low, increasing the cell's production of cholesterol. 
+
+As cholesterol builds up in the cell, sre1 is gradually turned off.    
+"Essentially, SREBP and sre1 both try to maintain an optimal level of cholesterol in the cells," says Espenshade.    
+But, based on what he now knows, Espenshade suspects that the yeast use cholesterol levels to figure out whether there's 
+
+enough oxygen around for biology as usual. Single-celled yeast can alter their biology to live without oxygen, and human 
+
+cells can do so to a certain extent. Johns Hopkins researcher Gregg Semenza, M.D., Ph.D., discovered a number of years ago 
+
+how human cells react to low oxygen levels, but that process has never been connected to cholesterol production.    
+"Our cells can adjust to lowered oxygen by turning on a specific set of genes when oxygen levels drop [using a gene called 
+
+HIF1-alpha]," says Espenshade. "While there's no known connection between this process and cholesterol production, our 
+
+results in the yeast suggest that perhaps SREBP itself, or something in the cholesterol pathway, might also serve as an 
+
+oxygen sensor for mammalian cells."    
+It makes sense, he says, that the yeast could use its cholesterol levels as an indirect measure of oxygen levels. The cell 
+
+uses a few oxygen molecules each time it makes cholesterol, so lowered cholesterol levels could signal that there's not 
+
+enough oxygen around to make it. And because low cholesterol levels automatically turn on the yeast's version of SREBP, it's 
+
+an easy solution to have the same gene sound the alarm that the cell needs to adapt to low levels of oxygen.    
+Espenshade says sre1's role in the yeast's production of cholesterol (actually a similar molecule called ergosterol) and 
+
+sensing of oxygen might offer a new opportunity to kill infectious yeast and fungi that share the gene with S. pombe. 
+
+   
+"Without the sre1 gene, the yeast in our experiments died in low oxygen conditions," says Espenshade. "Because low oxygen 
+
+levels are common in infected tissues, if we can block infectious yeasts' SREBP pathway without affecting human cells' 
+
+cholesterol pathways, we might be able to treat certain infections."    
+Espenshade and his team have found that infection-causing yeast Aspergillus, Neurospora, Cryptococcus and Ustilago share S. 
+
+pombe's cholesterol-related genes, while S. cerevisae and the yeast Candida do not.    
+The researchers were funded by the National Institute of General Medical Sciences, the National Heart, Lung and Blood 
+
+Institute and the Burroughs Wellcome Fund. Authors on the paper are Hughes, Bridget Todd and Espenshade, all of Hopkins. 
+
+Hughes and Todd are both graduate students in the Biochemistry, Molecular and Cell Biology program.    
+On the Web:   
+ http://www.cell.com     
+Contact: Joanna Downer  
+jdowner1@jhmi.edu  
+410-614-5105  
+Johns Hopkins Medical Institutions  
+ http://www.hopkinsmedicine.org 

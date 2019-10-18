@@ -1,0 +1,15 @@
+Carbonated beverages are associated with out-of-hospital cardiac arrests of cardiac origin, according to results from the All-Japan Utstein Registry presented for the first time today at ESC Congress. The study in nearly 800 000 patients suggests that limiting consumption of carbonated beverages may be beneficial for health.
+
+"Some epidemiologic studies have shown a positive correlation between the consumption of soft drinks and the incidence of cardiovascular disease (CVD) and stroke, while other reports have demonstrated that the intake of green tea and coffee reduced the risk and mortality of CVD," said principal investigator Professor Keijiro Saku, Dean and professor of cardiology at Fukuoka University in Japan. "Carbonated beverages, or sodas, have frequently been demonstrated to increase the risk of metabolic syndrome and CVD, such as subclinical cardiac remodeling and stroke. However, until now the association between drinking large amounts of carbonated beverages and fatal CVD, or out-of-hospital cardiac arrests (OHCA) of cardiac origin, was unclear."
+
+The study compared the age-adjusted incidence of OHCAs to the consumption of various beverages per person between 2005 and 2011 in the 47 prefectures of Japan. It included 797 422 patients who had OHCAs of cardiac and non-cardiac origin from the All-Japan Utstein Registry of the Fire and Disaster Management Agency. Data on the consumption of the various beverages per person was obtained from the Ministry of Health, Labour and Welfare of Japan, using expenditure on beverages as a proxy measure.
+
+The analysis focused on the 785 591 OHCA cases that received resuscitation, of which 435 064 (55.4%) were of cardiac origin and 350 527 (44.6%) were of non-cardiac origin. Those of non-cardiac origin included cerebrovascular disease, respiratory disease, malignant tumour, and exogenous disease (4.8%, 6.1%, 3.5%, and 18.9%, respectively).
+
+The researchers found that expenditures on carbonated beverages were significantly associated with OHCAs of cardiac (r=0.30, p=0.04) (Figure 1), but not non-cardiac origin (r=-0.03, p=0.8).
+
+Expenditures on other beverages, including green tea, black tea, coffee, cocoa, fruit or vegetable juice, fermented milk beverage, milk and mineral water were not significantly associated with OHCAs of cardiac origin.
+
+"Carbonated beverage consumption was significantly and positively associated with OHCAs of cardiac origin in Japan, indicating that beverage habits may have an impact on fatal CVD," said Professor Saku. "The acid in carbonated beverages might play an important role in this association."
+
+Professor Saku concluded: "Our data on carbonated beverage consumption is based on expenditure and the association with OHCA is not causal. But the findings do indicate that limiting consumption of carbonated beverages could be beneficial for health."

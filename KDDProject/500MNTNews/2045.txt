@@ -1,0 +1,28 @@
+
+
+
+
+
+Dartmouth researchers (USA) have developed an algorithm that might someday be used to analyze blood for diagnostic purposes.   
+
+Using data from a mass spectrometer, a device that generates a molecular fingerprint of biological samples, the Dartmouth team's calculations can distinguish healthy blood from diseased blood.   
+
+This study by Ryan Lilien, a Dartmouth M.D./Ph.D. student, Hany Farid, Assistant Professor of Computer Science , and Bruce Donald, the Foley Professor of Computer Science, appeared in the Journal of Computational Biology in December 2003.   
+
+'Our algorithm, named Q5, works on the assumption that the molecular composition of the blood changes between healthy and disease states,' says Donald, the senior researcher on the project.    'The goal of our work is to develop minimally invasive diagnostic methods with high predictive accuracy, and this is a promising first step.'   
+
+Mathematical computations are routinely developed, varied and refined to analyze mass spectrometry data.    
+
+Q5 uses mathematical techniques called Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) to differentiate between the mass spectra of healthy and diseased blood samples.    
+
+Q5 learns with each sample it tests, resulting in better accuracy. The algorithm compares the molecular fingerprint of each sample to identify features that differ between the healthy and disease states.
+   
+'Our algorithm detected  ovarian cancer  with virtually 100% accuracy and  prostate cancer  with approximately 95% accuracy,' explains Lilien, the lead author on the paper.    
+
+'Q5 analyzes the mass spec data and offers control over the threshold between healthy and disease classification. Although we only tested against ovarian and prostate cancer, we think it's possible that Q5 may be used to test for other  cancers  and diseases.'
+   
+The researchers explain that there is much still to be learned from the different types of information within a sample of blood, and Q5 is one means of extracting new and important data.
+   
+'Most exciting to us, unlike previous mass spec disease diagnosis methods, Q5 provides clues about the molecular identities of abnormal proteins and peptides, which often cause disease. These altered proteins can serve as biomarkers, helping doctors make diagnosis and also helping researchers design better targeted drugs,' says Donald.
+   
+This research is funded by the National Institutes of Health, the National Science Foundation, the John Simon Guggenheim Foundation, and an Alfred P. Sloan Fellowship. 
